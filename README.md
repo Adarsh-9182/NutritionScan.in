@@ -1,2 +1,2 @@
-# Nutritiscan.in
+# Nutritiscan.com
 Track you nutrition
